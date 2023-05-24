@@ -1,4 +1,4 @@
-https://milan-encodedots.github.io/onlyoffice.github.io/sdkjs-plugins/content/helloworld/(function(window, undefined) {
+(function(window, undefined) {
 	var URL_TO_PLUGIN = "https://milan-encodedots.github.io/onlyoffice.github.io/sdkjs-plugins/content/propact/";
 	
 	var xhrObj = new XMLHttpRequest();
